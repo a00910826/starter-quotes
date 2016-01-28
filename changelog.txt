@@ -1,0 +1,7 @@
+- Version Control -
+
+DD/MM/YY @ HHMM - Description changes (Initials)
+ex. 12/12/12 - Fixed Description (CS)
+
+#############################################################
+
