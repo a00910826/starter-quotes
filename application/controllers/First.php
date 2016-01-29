@@ -1,8 +1,6 @@
 <?php
 
 /**
- * The first after the logo in the menu bar.
- * The page should display the first item in the list with their picture and quote.
  * 
  * controllers/First.php
  *
