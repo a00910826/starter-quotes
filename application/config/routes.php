@@ -41,6 +41,9 @@
 $route['default_controller'] = "welcome";
 $route['404_override'] = '';
 
+//sleep - wildcard routing
+$route['sleep'] = "first/zzz";
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
