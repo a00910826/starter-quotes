@@ -9,4 +9,12 @@ ex. 12/12/12 - Fixed Description (CS)
 28/01/16 @ 1420 - Created a checkin branch (CS)
 
 29/01/16 @ 1201 - Created a first-link branch (CS)
-29/01/16 @ 2352 - Created a First.php controller (CS)
+29/01/16 @ 1252 - Created a First.php controller (CS)
+
+29/01/16 @ 1308 - Created a sleep-link branch (CS)
+29/01/16 @ 1442 - Modified First.php controller to add zzz() function  (CS)
+29/01/16 @ 1443 - Modified routes.php to add first/zzz routing rule (CS)
+
+29/01/16 @ 1445 - Created a show-link branch (CS)
+29/01/16 @ 1457 - Modified First.php controller to add gimme($id) function (CS)
+29/01/16 @ 1458 - Modified routes.php to add first/gimme/$1 rule (CS)
