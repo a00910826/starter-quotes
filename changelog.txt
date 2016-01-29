@@ -18,3 +18,7 @@ ex. 12/12/12 - Fixed Description (CS)
 29/01/16 @ 1445 - Created a show-link branch (CS)
 29/01/16 @ 1457 - Modified First.php controller to add gimme($id) function (CS)
 29/01/16 @ 1458 - Modified routes.php to add first/gimme/$1 rule (CS)
+
+29/01/16 @ 1503 - Created a bingo-link branch (CS)
+29/01/16 @ 1505 - Created a Bingo.php controller (CS)
+29/01/16 @ 1515 - Modified routes.php to add bingo remap (CS)
