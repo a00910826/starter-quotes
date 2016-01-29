@@ -15,13 +15,23 @@ class First extends Application {
     }
 
     //-------------------------------------------------------------
-    //  The normal pages
+    //  The normal page
     //-------------------------------------------------------------
 
     function index() {
         $this->data['pagebody'] = 'justone'; // this is the view we want shown
         // grab the first item in the list, to pass on to our view
         $record = $this->quotes->first();
+
+        $this->data = array_merge($this->data, $record);
+
+        $this->render();
+    }
+
+    function zzz() {
+        $this->data['pagebody'] = 'justone'; // this is the view we want shown
+        // grab the first item in the list, to pass on to our view
+        $record = $this->quotes->get(1);
 
         $this->data = array_merge($this->data, $record);
 
