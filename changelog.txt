@@ -35,5 +35,5 @@ ex. 12/12/12 - Fixed Description (CS)
 30/01/16 @ 1516 - Modified routes.php with callback routing rule (JL)
 
 30/01/16 @ 1541 - Created wisdom brach (JL)
-30/01/16 @ 1541 - Created wisdom.php
-30/01/16 @ 1541 - Modified routes.php with regular expression rule
+30/01/16 @ 1541 - Created wisdom.php (JL)
+30/01/16 @ 1541 - Modified routes.php with regular expression rule (JL)
