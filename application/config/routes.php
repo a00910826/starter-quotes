@@ -54,16 +54,6 @@ $route['show/(:num)'] = "first/gimme/$1";
 //bingo - remapped
 $route['([a-z]+)/bingo'] = "bingo";
 
-//callback routing
-$route['dunno'] = function() {
-    $source = './data/cat.jpg'; // an image you provide
-    // set the mime type for that image
-    header("Content-type: image/jpeg");
-    header('Content-Disposition: inline');
-    readfile($source); // dish it
-    die(); // and we don't have to go any further
-};
-
 
 
 /* End of file routes.php */
