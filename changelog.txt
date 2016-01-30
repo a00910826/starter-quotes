@@ -23,5 +23,9 @@ ex. 12/12/12 - Fixed Description (CS)
 29/01/16 @ 1505 - Created a Bingo.php controller (CS)
 29/01/16 @ 1515 - Modified routes.php to add bingo remap (CS)
 
-30/01/16 @ 1437 - Created a last-branch (JL)
+30/01/16 @ 1437 - Created a last-link branch (JL)
 30/01/16 @ 1437 - Created a last/Welcome.php controller (JL)
+
+30/01/16 @ 1451 - Created a lockemup branch (JL)
+30/01/16 @ 1451 - Modified Welcome.php with shucks function (JL)
+30/01/16 @ 1451 - Modified routes.php with routing rule (JL)
