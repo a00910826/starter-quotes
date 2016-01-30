@@ -46,12 +46,15 @@ $route['404_override'] = '';
 
 //sleep - wildcard routing
 $route['sleep'] = "first/zzz";
+$route['lock/(:any)/(:any)'] = "welcome/shucks";
 
 //show - wildcard routing
 $route['show/(:num)'] = "first/gimme/$1";
 
 //bingo - remapped
 $route['([a-z]+)/bingo'] = "bingo";
+
+
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */
