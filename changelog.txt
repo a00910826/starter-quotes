@@ -22,3 +22,6 @@ ex. 12/12/12 - Fixed Description (CS)
 29/01/16 @ 1503 - Created a bingo-link branch (CS)
 29/01/16 @ 1505 - Created a Bingo.php controller (CS)
 29/01/16 @ 1515 - Modified routes.php to add bingo remap (CS)
+
+30/01/16 @ 1437 - Created a last-branch (JL)
+30/01/16 @ 1437 - Created a last/Welcome.php controller (JL)
