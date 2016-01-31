@@ -29,3 +29,7 @@ ex. 12/12/12 - Fixed Description (CS)
 30/01/16 @ 1451 - Created a lockemup branch (JL)
 30/01/16 @ 1451 - Modified Welcome.php with shucks function (JL)
 30/01/16 @ 1451 - Modified routes.php with routing rule (JL)
+
+30/01/16 @ 1516 - Created a random branch (JL)
+30/01/16 @ 1516 - Added random image from internet (JL)
+30/01/16 @ 1516 - Modified routes.php with callback routing rule (JL)
