@@ -64,6 +64,9 @@ $route['dunno'] = function() {
     die(); // and we don't have to go any further
 };
 
+//regular expression routing
+$route['comp+(\d+)/([a-z]+)'] = "wise/bingo";
+
 
 
 /* End of file routes.php */
